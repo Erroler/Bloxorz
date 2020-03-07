@@ -18,7 +18,7 @@ You can simply play the game or see the performance of each algorithm on a game 
 
 ## Screenshots
 
-* [Game Menu](https://i.imgur.com/0m0eZ2J.png)
+* [Main Menu](https://i.imgur.com/0m0eZ2J.png)
 * [Playing a Level (GIF)](https://i.imgur.com/NF2r863.gif)
 * [Viewing algorithm performance (GIF)](https://i.imgur.com/eIpoJuH.gif)
 
