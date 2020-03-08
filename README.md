@@ -5,14 +5,14 @@
 
 The original version of the game developed by Damien Clarke in 2007 is no longer available on the internet but there are several modern remakes: 
 
-* [Android](https://play.google.com/store/apps/details?id=com.superpow.bloxorz&hl=pt_PT)
-* [Android](https://play.google.com/store/apps/details?id=com.albinoblacksheep.bloxorzgame&hl=pt_PT)
+* [Android (1)](https://play.google.com/store/apps/details?id=com.superpow.bloxorz)
+* [Android (2)](https://play.google.com/store/apps/details?id=com.albinoblacksheep.bloxorzgame)
 * [iOS](https://apps.apple.com/us/app/bloxorz-roll-the-block/id1409476339)
 * [Browser](https://www.miniclip.com/games/bloxorz)
 
 **This repository contains a remake of the game in Python.**
 
-This project was developed as an academic project for an Artificial Intelligence course. As such, several search algorithms have been implemented, namely: Depth-first Search, Breadth-First Search, Uniform cost Search, Best first Search and A*.
+This project was developed as an academic project for an Artificial Intelligence college subject. As such, several search algorithms have been implemented, namely: Depth-first Search, Breadth-First Search, Uniform cost Search, Best first Search and A*.
 
 You can simply play the game or see the performance of each algorithm on a game level (Solution cost, Nodes explored, Time solved (ms)).
 
