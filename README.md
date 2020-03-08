@@ -28,8 +28,8 @@ Requires Python 3.
 
 Steps:
 
-1. Clone this repository and execute `pip install -r requirements.txt` to install dependencies (namely NumPy, PyGame and PyGameMenu).
-2. Execute `python main.py` to play the game.
+> 1. Clone this repository and execute `pip install -r requirements.txt` to install dependencies (namely NumPy, PyGame and PyGameMenu).
+> 2. Execute `python main.py` to play the game.
 
 **Use the keyboard to play the game (Arrows and Enter). Mouse is not supported.**
 
