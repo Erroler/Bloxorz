@@ -16,6 +16,8 @@ The original version of the game developed by Damien Clarke in 2007 is no longer
 
 You can simply play the game or see the performance of each algorithm on a game level (Solution cost, Nodes explored, Time solved (ms)).
 
+*Project finished on April 2019.*
+
 ## Screenshots
 
 * [Main Menu](https://i.imgur.com/0m0eZ2J.png)
